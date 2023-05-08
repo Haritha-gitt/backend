@@ -1,3 +1,4 @@
+//added artifactory
 pipeline {
     agent any
     tools {
